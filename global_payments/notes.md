@@ -18,6 +18,7 @@ two types of payments:
   - FSP: Financial Service Provider
 
 Interoperable Payment Systems:
+1. Open Loop Systems - FSPs
 - ACH systems
 - direct debit systems
 - credit transfer systems
@@ -25,3 +26,15 @@ Interoperable Payment Systems:
 - RTGS (Real-Time Gross Settlement) systems
 - debit card/credit card/prepaid card/mobile payments systems
 
+2. Closed Loop Systems - End Users
+- Alipay
+
+Players of Payment Systems:
+1. FSPs
+2. Central Bank
+3. Clearing Houses
+4. Card Systems
+5. Processors
+6. Payments Services Providers
+
+## Chapter 3: National Payments Systems: A Common Model
